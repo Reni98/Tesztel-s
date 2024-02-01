@@ -1,0 +1,8 @@
+1.Tesztelés célja, Tipikus céljai, Tesztelés, hibakeresés, A tesztelés hozzájárul a sikerhez,Minőségbiztosítás és tesztelés
+2., Emberi eredetű hibák és meghibásodások, Hibák kiváltó okok és hatások,Tesztelési alapelvek,
+3. Tesztfolyamat, kontexusba helyezése,Teszttevékenységek és feladatok, Teszttervezés,Tesztfelügyelet és irányítás,
+4. Tesztelemzés, Műszaki teszttervezés, Tesztmegvalósítás, Tesztvégrehajtás, Tesztlezárás,Teszttervezési munkatermékek,
+5.Tesztfelügyelet és irányítás, tesztelemzés munkatermékek, műszaki teszttervezés munkatermékek, tesztmegvalósítás munkatermékek
+6.A tesztlezárás munkatermékei,A tesztbázis és a tesztmunkatermékek közötti nyomonkövethetőség,Pszichológia és tesztelés,A tesztelők és fejlesztők gondolkodásmódja
+7.Szoftverfejlesztés és szoftvertesztelés,Szoftverfejlesztési életciklusmodell kontextusba helyezve,Komponenstesztelés,Jellemző hibák és meghibásodások
+8.Konkrét megközelítések és felelősségek,Az integrációs tesztelés céljai,Tesztbázis,Teszt tárgya,Jellemző hibák és meghibásodások,Konkrét megközelítések és felelősségek
